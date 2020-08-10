@@ -23,7 +23,14 @@ Reaching to Large Audiance:
 Maintanance:    
 
 
-Overall Score: <p style='color:green'>Silver</p>
+Overall Score:   
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 ![Silver](images/silver.png)
