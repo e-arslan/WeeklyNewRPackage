@@ -28,6 +28,15 @@ Overall Score: Silver
 
 ![Silver](images/silver.png)
 
+![Bronze](images/bronze.png)
+
+
+![Gold](images/gold.png)
+
+
+![Diamond](images/diamond.png)
+
+
 
 Basic example to run
 ``` r
