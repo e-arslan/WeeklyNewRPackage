@@ -1,6 +1,8 @@
 disk.frame
 -----------
+* What does this package do?
 
+	* disk.frame performs a similar role to distributed systems such as Apache Spark, Python’s Dask, and Julia’s JuliaDB.jl for medium data which are datasets that are too large for RAM but not quite large enough to qualify as big data.
 
 
 The users can refer to our paper [An accurate and robust imputation method scImpute for single-cell RNA-seq data](https://www.nature.com/articles/s41467-018-03405-7) for a detailed description of the modeling and applications.
