@@ -23,7 +23,7 @@ Reaching to Large Audiance:
 Maintanance: 
 
 
-Overall Score: Silver ![Examples](images/silver.png)[width=300,height=300]
+Overall Score: Silver ![Examples](images/silver.png){:height="36px" width="36px"}
 
 
 Basic example to run
