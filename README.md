@@ -17,10 +17,10 @@ disk.frame
 	*  
 
 
-Dependencies to Other Packages: 
-Usability: 
-Reaching to Large Audiance: 
-Maintanance: 
+Dependencies to Other Packages:  
+Usability:   
+Reaching to Large Audiance:   
+Maintanance:    
 
 
 Overall Score: Silver 
