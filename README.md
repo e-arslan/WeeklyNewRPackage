@@ -23,7 +23,7 @@ Reaching to Large Audiance:
 Maintanance:    
 
 
-Overall Score: <p style='color:gray'>Silver.</p>
+Overall Score: <p style='color:green'>Silver</p>
 
 
 ![Silver](images/silver.png)
