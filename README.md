@@ -23,7 +23,7 @@ Reaching to Large Audiance:
 Maintanance:    
 
 
-Overall Score: ```diff @@Silver in silver@@```
+Overall Score: <p style='color:gray'>Silver.</p>
 
 
 ![Silver](images/silver.png)
