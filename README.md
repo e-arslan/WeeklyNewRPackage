@@ -13,10 +13,17 @@ disk.frame
 	* [if you have time (> 1 hour)](https://www.youtube.com/watch?v=kjPjXs0mkwE)
 
 * Main functions
-	*  asd
-	*  adsf
+	*  
+	*  
 
-Overall 
+
+Dependencies to Other Packages: 
+Usability: 
+Reaching to Large Audiance: 
+Maintanance: 
+
+
+Overall Score: Silver ![Examples](images/silver.png)
 
 
 Basic example to run
