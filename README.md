@@ -23,10 +23,7 @@ Reaching to Large Audiance:
 Maintanance:    
 
 
-Overall Score:   
-```diff
-Silver in gray (and bold)
-```
+Overall Score: Silver
 
 
 ![Silver](images/silver.png)
