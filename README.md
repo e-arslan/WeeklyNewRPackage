@@ -24,7 +24,6 @@ Maintanance:
 
 
 Overall Score: 
-
 Silver ![Example](images/silver.png=100x100)
 
 
