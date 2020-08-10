@@ -24,7 +24,7 @@ Maintanance:
 
 
 Overall Score: Silver 
-![Silver](images/silver.png=100x100)
+![Example](images/silver.png=100x100)
 
 
 Basic example to run
