@@ -12,6 +12,16 @@ disk.frame
 	* [if you don't have time (\~20 mins)](https://diskframe.com/articles/intro-disk-frame.html) 
 	* [if you have time (> 1 hour)](https://www.youtube.com/watch?v=kjPjXs0mkwE)
 
+* Main functions
+	*  asd
+	*  adsf
+
+Overall 
+
+
+Basic example to run
+``` r
+```
 
 The users can refer to our paper [An accurate and robust imputation method scImpute for single-cell RNA-seq data](https://www.nature.com/articles/s41467-018-03405-7) for a detailed description of the modeling and applications.
 
