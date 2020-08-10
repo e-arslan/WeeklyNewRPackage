@@ -25,7 +25,7 @@ Maintanance:
 
 Overall Score:   
 ```diff
-- text in red
+Silver in gray
 + text in green
 ! text in orange
 # text in gray
